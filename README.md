@@ -1,6 +1,6 @@
 # XerXes
 
-XerXeS is an extremely efficient DoS tool to automate DoS attacks. It provides the capacity to launch multiple independent attacks against several target sites without necessarily requiring a botnet.
+XerXeS is a DoS tool to automate DoS attacks. Launch multiple attacks against several target sites without necessarily requiring a botnet.
 
 ## Source Reference
 Original source code(leaked): [Pastebin](https://pastebin.com/aWZMbjSU)
