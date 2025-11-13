@@ -1,5 +1,7 @@
 # XerXes
 
+**Note: This repository is for archival/preservation purposes only. The original source code was created by another author and is being preserved here.**
+
 XerXeS is a DoS tool to automate DoS attacks. Launch multiple attacks against several target sites without necessarily requiring a botnet.
 
 ## Source Reference
